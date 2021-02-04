@@ -20,9 +20,11 @@ I’m currently working on web and mobile development with technologies like Jav
 
 ## Social media :mailbox_with_no_mail:
 
-[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https://twitter.com/sebg96)](https://twitter.com/sebg96)
-[![LinkedIn URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https://www.linkedin.com/in/sebastian-garcia-ospina/)](https://www.linkedin.com/in/sebastian-garcia-ospina/)
-[![Reddit URL](https://img.shields.io/twitter/url?color=orange&label=follow&logo=reddit&logoColor=orange&style=flat-square&url=https://www.reddit.com/user/ImLotus)](https://www.reddit.com/user/ImLotus)
+[![Twitter Badge](https://img.shields.io/badge/-sebg96-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/sebg96)](https://twitter.com/sebg96)
+[![Linkedin Badge](https://img.shields.io/badge/-Sebastián_García-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-garcia-ospina/)](https://www.linkedin.com/in/sebastian-garcia-ospina/) 
+[![Reddit URL](https://img.shields.io/badge/-ImLotus-orange?style=flat-square&logo=reddit&logoColor=white&link=https://www.linkedin.com/in/sebastian-garcia-ospina/)](https://www.reddit.com/user/ImLotus)
+[![Outlook](https://img.shields.io/badge/-sgarcia710@outlook.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:sgarcia710@outlook.com)
+
 
 ### My Tech Stack
 
