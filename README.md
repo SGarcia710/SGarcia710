@@ -29,12 +29,12 @@ I’m currently working on web and mobile development with technologies like Jav
 
 #### Languages
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Swift](https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift)
 
 #### Technologies
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -53,21 +53,16 @@ I’m currently working on web and mobile development with technologies like Jav
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
 #### Databases
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 #### Tools and Others
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Xcode](https://img.shields.io/badge/Xcode-black?style=flat-square&logo=Xcode&logoColor=white)
-![Apple](https://img.shields.io/badge/MacOS-black?style=flat-square&logo=Apple&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=flat&logo=bitbucket)
-
-
-## Stats
-![SGarcia710's github stats](https://github-readme-stats.vercel.app/api?username=SGarcia710&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
+![Xcode](https://img.shields.io/badge/Xcode-black?style=flat-square&logo=Xcode)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=flat-square&logo=Visual-Studio-Code)
+![Apple](https://img.shields.io/badge/MacOS-black?style=flat-square&logo=Apple)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
