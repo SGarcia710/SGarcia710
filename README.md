@@ -41,9 +41,6 @@ I’m currently working on web and mobile development with technologies like Jav
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-
-
-
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 ![Swift](https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift&logoColor=white)
@@ -51,7 +48,7 @@ I’m currently working on web and mobile development with technologies like Jav
 #### Tools and Others
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-black?style=flat-square&logo=Xcode&logoColor=white)
 ![Apple](https://img.shields.io/badge/iPhone_and_MacBook-black?style=flat-square&logo=Apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
