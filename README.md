@@ -55,6 +55,7 @@ I’m currently working on web and mobile development with technologies like Jav
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+[![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=flat&logo=bitbucket)
 
 
 
