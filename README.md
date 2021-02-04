@@ -1,11 +1,8 @@
 :computer: _Frontend Developer at [Overactive](https://overactive.com/)_ ☀️ Living in Colmbia :colombia:
 
-
-
 <img align="right" width="400" height="400" src="https://github.com/SGarcia710/SGarcia710/blob/main/profile-image.png?raw=true">
 
-<!-- <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SGarcia710&repo=SGarcia710&countColorcountColor&countColor=%237B1E7B"/> -->
-<img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=SGarcia710.SGarcia710" /> <img alt="ViewCount" src="https://views.whatilearened.today/views/github/SGarcia710/SGarcia710.svg" />
+<img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=SGarcia710.SGarcia710" /> 
 
 # Hi there, I'm Sebastián
 
