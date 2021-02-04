@@ -1,17 +1,11 @@
-:computer: _Frontend Developer at [Overactive](https://overactive.com/)_ :desert_island:Living in Colmbia :colombia:
+:computer: _Frontend Developer at [Overactive](https://overactive.com/)_ ☀️ Living in Colmbia :colombia:
 
 
-    Hola mi nombre es Sebastián, Desarrollador Frontend y entusiasta de SwiftUI.
-    /
-    Hello my name is Sebastian, Frontend Developer and SwiftUI enthusiast.
-    
-    
-    
 # Hi there, I'm Sebastián
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Student  
+## I'm a Self taught Frontend Developer 
 
 - 💻 I’m currently working on web and mobile development with technologies like JavaScript, React, Nextjs, Gatsby, React Native etc.
 - 📚 I’m currently learning everything about Svelte and SwiftUI.
