@@ -1,28 +1,28 @@
 :computer: _Frontend Developer at [Overactive](https://overactive.com/)_ ☀️ Living in Colmbia :colombia:
 
-
-# Hi there, I'm Sebastián
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-## I'm a Self taught Frontend Developer 
-
-- 💻 I’m currently working on web and mobile development with technologies like JavaScript, React, Nextjs, Gatsby, React Native etc.
-- 📚 I’m currently learning everything about Svelte and SwiftUI.
-
----
-
+<img align="right" width="400" height="400" src="https://instagram.feoh3-1.fna.fbcdn.net/v/t51.2885-15/e35/72767618_530543940843085_5872510229440679720_n.jpg?_nc_ht=instagram.feoh3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=QePZ0N-eHRoAX_hftNl&oh=08407c6056b3380fc09d01f51ed9729c&oe=5F30A1C4">
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SGarcia710&repo=SGarcia710&countColorcountColor&countColor=%237B1E7B"/>
 
-### Contact with me 📝
+
+# Hi there, I'm Sebastián
+
+I’m currently working on web and mobile development with technologies like JavaScript, React, Nextjs, Gatsby, React Native etc.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastian-garcia-ospina/)](https://www.linkedin.com/in/sebastian-garcia-ospina/)
+## About me 
 
-<br />
+🎮 Gaming | ✈️ Travel | 📚 Learning
 
----
+- :earth_americas: I'm from Cali - Colombia
+- :iphone: Apple Development Enthusiast
+- 📚 I’m currently learning everything about Svelte and SwiftUI.
+
+## Social media :mailbox_with_no_mail:
+
+[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https://twitter.com/sebg96)](https://twitter.com/sebg96)
+[![LinkedIn URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https://www.linkedin.com/in/sebastian-garcia-ospina/)](https://www.linkedin.com/in/sebastian-garcia-ospina/)
+[![Reddit URL](https://img.shields.io/twitter/url?color=orange&label=follow&logo=reddit&logoColor=orange&style=flat-square&url=https://www.reddit.com/user/ImLotus)](https://www.reddit.com/user/ImLotus)
 
 ### My Tech Stack
 
