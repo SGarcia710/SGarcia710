@@ -1,6 +1,6 @@
 :computer: _Frontend Developer at [Overactive](https://overactive.com/)_ ☀️ Living in Colmbia :colombia:
 
-<img align="right" width="400" height="400" src="https://instagram.feoh3-1.fna.fbcdn.net/v/t51.2885-15/e35/72767618_530543940843085_5872510229440679720_n.jpg?_nc_ht=instagram.feoh3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=QePZ0N-eHRoAX_hftNl&oh=08407c6056b3380fc09d01f51ed9729c&oe=5F30A1C4">
+<img align="right" width="400" height="400" src="https://github.com/SGarcia710/SGarcia710/blob/main/profile-image.png?raw=true">
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SGarcia710&repo=SGarcia710&countColorcountColor&countColor=%237B1E7B"/>
 
