@@ -1,4 +1,4 @@
-:computer: _Frontend Developer at [PaloIT](https://www.palo-it.com/es/)_ ☀️ Living in Colmbia :colombia:
+:computer: _Frontend Developer at [Astound Commerce](https://https://astoundcommerce.com/)_ ☀️ Living in Colmbia :colombia:
 
 <img align="right" width="400" height="400" src="https://github.com/SGarcia710/SGarcia710/blob/main/profile-image.png?raw=true">
 
